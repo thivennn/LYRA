@@ -1,0 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+data/processed/songs_clean_final.csv filter=lfs diff=lfs merge=lfs -text
