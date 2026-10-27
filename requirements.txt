@@ -1,0 +1,29 @@
+streamlit
+pandas
+transformers
+torch
+plotly
+scikit-learn
+Pillow
+numpy
+pytest
+
+# Core
+streamlit>=1.32.0
+
+# Data
+pandas>=2.0.0
+numpy>=1.24.0
+
+# ML / NLP
+torch>=2.0.0
+transformers>=4.35.0
+
+# Visualization
+plotly>=5.18.0
+
+# Image handling
+Pillow>=10.0.0
+
+# Scikit (for evaluation metrics)
+scikit-learn>=1.3.0
